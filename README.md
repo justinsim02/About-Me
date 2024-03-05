@@ -1,7 +1,6 @@
 # About Me
 
 ## Hey, I'm Justin! :japanese_goblin:
-![IMG_4564]()
 I go to school at the Univeristy of Washington in the Electrical and Computer Engineering Department.
 
 - **Location:** Seattle, WA
