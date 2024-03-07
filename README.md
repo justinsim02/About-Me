@@ -1,6 +1,5 @@
-# About Me
+# Hey, I'm Justin! 😄
 
-## Hey, I'm Justin! 😄
 I go to school at the Univeristy of Washington in the Electrical and Computer Engineering Department.
 
 - **Location:** Seattle, WA
