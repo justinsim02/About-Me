@@ -13,4 +13,4 @@ Engineering Intern for Lubn Inc.
 
 Check out my latest project: FIR Running Mean Filter
 
-Thanks for checking me out!
+Thanks for checking out my page!
