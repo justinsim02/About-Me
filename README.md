@@ -11,4 +11,5 @@ Engineering Intern for Lubn Inc.
 
 [currently bumping this](https://www.youtube.com/watch?v=4l5nfBzl19g)
 
-Feel free to reach out if you want to chat about anything or collaborate!
+Check out my latest project: FIR Running Mean Filter
+Thanks for checking me out!
